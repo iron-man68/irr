@@ -1,0 +1,9 @@
+{
+    "name": "IRON MAN",
+    "description": "Best iron man character theme.",
+    "version": "1",
+    "author": "HASSONY🥀#0001",
+    "theme": "iron man.theme.css",
+    "consent": ["ext_listing"],
+    "license": "MIT"
+}
